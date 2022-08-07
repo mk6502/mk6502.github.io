@@ -1,6 +1,6 @@
 ---
 title: "Data Science from Scratch - Microreview"
-date: 2017-07-07T09:18:29-05:00
+date: 2017-07-10T09:18:29-05:00
 draft: false
 ---
 
