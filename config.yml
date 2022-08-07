@@ -29,6 +29,8 @@ params:
       url: 'https://www.linkedin.com/in/mikestaszel/'
     - name: 'github'
       url: 'https://github.com/mk6502/'
+    - name: 'medium'
+      url: 'https://medium.com/@mkstz'
     - name: 'twitter'
       url: 'https://twitter.com/mk312x'
     - name: 'stackoverflow'
