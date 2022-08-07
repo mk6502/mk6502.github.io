@@ -11,13 +11,19 @@ params:
 
   homeInfoParams:
     Title: 'Hi there 👋'
-    Content: 'Software engineer, blockchain enthusiast, occasional blogger.'
+    Content: "I'm a software engineer, blockchain enthusiast, occasional blogger."
 
   socialIcons:
     - name: 'linkedin'
       url: 'https://www.linkedin.com/in/mikestaszel/'
+    - name: 'github'
+      url: 'https://github.com/mk6502/'
     - name: 'twitter'
       url: 'https://twitter.com/mk312x'
+    - name: 'cv'
+      url: 'https://storage.googleapis.com/mkst/resume/mike-resume.pdf'
+    - name: 'email'
+      url: 'mailto:mike@sent.fm'
 
   ShowShareButtons: true
   ShowBreadCrumbs: true
