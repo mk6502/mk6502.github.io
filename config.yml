@@ -3,16 +3,21 @@ languageCode: 'en-us'
 title: 'Mike Staszel'
 theme: 'PaperMod'
 
+permalinks:
+  posts: /:year/:month/:day/:title/
+
 params:
   author: 'Mike Staszel'
 
   homeInfoParams:
-      # Title: 'Title Here'
-      Content: 'Content here.'
+    Title: 'Hi there 👋'
+    Content: 'Software engineer, blockchain enthusiast, occasional blogger.'
 
   socialIcons:
-      - name: 'twitter'
-        url: 'https://twitter.com/mk312x'
+    - name: 'linkedin'
+      url: 'https://www.linkedin.com/in/mikestaszel/'
+    - name: 'twitter'
+      url: 'https://twitter.com/mk312x'
 
   ShowShareButtons: true
   ShowBreadCrumbs: true

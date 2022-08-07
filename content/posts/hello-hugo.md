@@ -5,3 +5,7 @@ draft: false
 ---
 
 Hello world, from Hugo.
+
+```python
+print("hello world")
+```
