@@ -11,7 +11,7 @@ I recently started working on a tool to help me SSH into EC2 instances (more det
 It’s easy to execute a program like ssh but the input and output of that program is lost. After trying to figure it out — I had a realization — this was easy! Truly one of those moments where it’s obvious once you see it.
 
 ```golang
-cmd := exec.Command(, "root@127.0.0.1))
+cmd := exec.Command("ssh", "root@127.0.0.1"))
 cmd.Stdout = os.Stdout
 cmd.Stdin = os.Stdin
 cmd.Stderr = os.Stderr
