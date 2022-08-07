@@ -24,6 +24,8 @@ params:
       url: 'https://storage.googleapis.com/mkst/resume/mike-resume.pdf'
     - name: 'email'
       url: 'mailto:mike@sent.fm'
+    - name: 'rss'
+      url: '/index.xml'
 
   ShowShareButtons: true
   ShowBreadCrumbs: true
