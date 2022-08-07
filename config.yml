@@ -1,0 +1,19 @@
+baseURL: 'https://mikestaszel.com/'
+languageCode: 'en-us'
+title: 'Mike Staszel'
+theme: 'PaperMod'
+
+params:
+  homeInfoParams:
+      # Title: 'Title Here'
+      Content: 'Content here.'
+
+  socialIcons:
+      - name: 'twitter'
+        url: 'https://twitter.com/mk312x'
+
+  ShowShareButtons: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  defaultTheme: 'dark'
+  disableThemeToggle: true
