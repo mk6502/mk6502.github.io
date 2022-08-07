@@ -5,14 +5,24 @@ theme: 'PaperMod'
 
 menu:
   main:
-    - identifier: posts
-      name: posts
-      url: /posts/
+    - identifier: 'github'
+      name: ''
+      pre: "<i class='fa fa-github'></i>"
+      url: 'https://github.com/mk6502/'
       weight: 10
+    - identifier: 'linkedin'
+      name: ''
+      pre: "<i class='fa fa-linkedin-square'></i>"
+      url: 'https://www.linkedin.com/in/mikestaszel/'
+      weight: 20
+    - identifier: posts
+      name: 'posts'
+      url: '/posts/'
+      weight: 30
     - identifier: resume
       name: resume
       url: https://storage.googleapis.com/mkst/resume/mike-resume.pdf
-      weight: 20
+      weight: 40
 
 permalinks:
   posts: /:year/:month/:day/:title/
