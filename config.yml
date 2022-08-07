@@ -4,6 +4,8 @@ title: 'Mike Staszel'
 theme: 'PaperMod'
 
 params:
+  author: 'Mike Staszel'
+
   homeInfoParams:
       # Title: 'Title Here'
       Content: 'Content here.'
