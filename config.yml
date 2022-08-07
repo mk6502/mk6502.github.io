@@ -3,6 +3,17 @@ languageCode: 'en-us'
 title: 'Mike Staszel'
 theme: 'PaperMod'
 
+menu:
+  main:
+    - identifier: posts
+      name: posts
+      url: /posts/
+      weight: 10
+    - identifier: resume
+      name: resume
+      url: https://storage.googleapis.com/mkst/resume/mike-resume.pdf
+      weight: 20
+
 permalinks:
   posts: /:year/:month/:day/:title/
 
@@ -20,6 +31,8 @@ params:
       url: 'https://github.com/mk6502/'
     - name: 'twitter'
       url: 'https://twitter.com/mk312x'
+    - name: 'stackoverflow'
+      url: 'https://stackoverflow.com/users/1591438/mikestaszel'
     - name: 'cv'
       url: 'https://storage.googleapis.com/mkst/resume/mike-resume.pdf'
     - name: 'email'
