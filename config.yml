@@ -25,10 +25,10 @@ params:
     Content: "I'm a software engineer, blockchain enthusiast, occasional blogger."
 
   socialIcons:
-    - name: 'linkedin'
-      url: 'https://www.linkedin.com/in/mikestaszel/'
     - name: 'github'
       url: 'https://github.com/mk6502/'
+    - name: 'linkedin'
+      url: 'https://www.linkedin.com/in/mikestaszel/'
     - name: 'medium'
       url: 'https://medium.com/@mkstz'
     - name: 'twitter'
