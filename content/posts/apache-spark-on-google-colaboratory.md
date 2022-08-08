@@ -2,6 +2,9 @@
 title: "Apache Spark on Google Colaboratory"
 date: 2018-03-07T09:01:31-05:00
 draft: false
+keywords:
+  - spark
+  - colaboratory
 ---
 
 Google recently launched a preview of [Colaboratory](https://colab.research.google.com/), a new service that lets you edit and run IPython notebooks right from Google Drive — free! It’s similar to [Databricks](https://databricks.com/try-databricks) — give that a try if you’re looking for a better-supported way to run Spark in the cloud, launch clusters, and much more.
