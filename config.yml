@@ -2,6 +2,7 @@ baseURL: 'https://mikestaszel.com/'
 languageCode: 'en-us'
 title: 'Mike Staszel'
 theme: 'PaperMod'
+enableRobotsTXT: true
 
 menu:
   main:
