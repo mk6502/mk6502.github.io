@@ -30,11 +30,11 @@ permalinks:
 
 params:
   author: 'Mike Staszel'
-  description: "I'm a software engineer, blockchain enthusiast, occasional blogger."
+  description: "I'm a software engineer, blockchain enthusiast, and occasional blogger."
 
   homeInfoParams:
-    Title: 'Hi there 👋'
-    Content: "I'm a software engineer, blockchain enthusiast, occasional blogger."
+    Title: "Hi there, I'm Mike 👋"
+    Content: "I'm a software engineer, blockchain enthusiast, and occasional blogger."
 
   socialIcons:
     - name: 'github'
