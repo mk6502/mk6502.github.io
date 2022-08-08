@@ -1,12 +1,2 @@
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-{{ if eq (getenv "HUGO_ENV") "production" }}
-<meta name="robots" content="index,follow">
-{{ else }}
-<meta name="robots" content="noindex,nofollow">
-{{ end }}
-
-{{ $paginator := .Paginate (where .Site.RegularPages ".Params.post" "!=" false) }}
-
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
