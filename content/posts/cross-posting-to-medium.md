@@ -1,10 +1,10 @@
 ---
 title: "Cross-Posting to Medium"
-date: 2022-08-12T08:16:12-05:00
-draft: true
+date: 2022-08-13T11:03:12-05:00
+draft: false
 ---
 
-I love seeing that a post I wrote helped someone.
+I love seeing when something I wrote helps someone.
 
 Someone sent me an email _years ago_ thanking me for writing about some obscure bug or problem I solved and blogged about, and I remember it to this day!
 
@@ -34,4 +34,6 @@ Rather than copy-pasting stories, use Medium's "Import" functionality: [Importin
 
 Not only is it faster - it also creates a canonical link between the Medium post and your external blog's post.
 
-I don't really know the first thing about SEO, so I'll let Wikipedia explain it: https://en.wikipedia.org/wiki/Canonical_link_element
+I don't really know the first thing about SEO, so I'll let Wikipedia explain it: [https://en.wikipedia.org/wiki/Canonical_link_element](https://en.wikipedia.org/wiki/Canonical_link_element)
+
+That's all there is to it. Stories on Medium will have a "originally published at" link to your blog at the bottom of the posts. You get the benefits of "owning" your blog as well as the discoverability aspect of Medium.
