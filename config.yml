@@ -16,12 +16,12 @@ menu:
       pre: "<i class='fa fa-linkedin-square'></i>"
       url: 'https://www.linkedin.com/in/mikestaszel/'
       weight: 20
-    - identifier: posts
-      name: 'posts'
+    - identifier: blog
+      name: 'Blog'
       url: '/posts/'
       weight: 30
     - identifier: resume
-      name: resume
+      name: Resume
       url: https://storage.googleapis.com/mkst/resume/mike-resume.pdf
       weight: 40
 
@@ -50,7 +50,7 @@ params:
     - name: 'cv'
       url: 'https://storage.googleapis.com/mkst/resume/mike-resume.pdf'
     - name: 'email'
-      url: 'mailto:mike@sent.fm'
+      url: 'mailto:mike@mikestaszel.com'
     - name: 'rss'
       url: '/index.xml'
 
