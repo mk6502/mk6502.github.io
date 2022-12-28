@@ -15,6 +15,10 @@ menu:
       name: ''
       pre: "<i class='fa fa-linkedin-square'></i>"
       url: 'https://www.linkedin.com/in/mikestaszel/'
+      weight: 15
+    - identifier: about-me
+      name: 'About Me'
+      url: '/about-me/'
       weight: 20
     - identifier: blog
       name: 'Blog'
